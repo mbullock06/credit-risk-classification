@@ -3,8 +3,6 @@
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
 * We are attempting to generate a model to predict weather a loan is either a high-risk or a healthy loan
 * The Data contains the following variables: loan size, interest rate, income, debt to income ratio, the number of accounts, and weather they had derogetory marks or not.
 * Using the "value_counts()" function we can tell the data leans heavily toward the healthy loans.

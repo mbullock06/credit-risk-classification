@@ -64,13 +64,13 @@ jupyter notebook credit_risk_classification_cleaned.ipynb
 
 🔮 Next Steps
 
-Perform hyperparameter tuning (Grid Search, Randomized Search)
+- Perform hyperparameter tuning (Grid Search, Randomized Search)
 
-Test advanced algorithms (Gradient Boosting)
+- Test advanced algorithms (Gradient Boosting)
 
-Apply class imbalance techniques (SMOTE, class weighting)
+- Apply class imbalance techniques (SMOTE, class weighting)
 
-Engineer domain-specific features to improve predictive power
+- Engineer domain-specific features to improve predictive power
 
 ---
 

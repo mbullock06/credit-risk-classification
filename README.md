@@ -6,7 +6,7 @@ The workflow includes:
 
 - Exploring and preprocessing the dataset
 
-- Training classification models (Logistic Regression, Random Forest)
+- Training classification models (Logistic Regression)
 
 - Evaluating model performance with accuracy, precision, recall, and F1-score
 
